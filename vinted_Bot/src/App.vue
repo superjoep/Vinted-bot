@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup>
+import scrapedProducts from "./components/scrapedProduct.vue";
+</script>
 
-<template></template>
+<template>
+  <scrapedProducts />
+</template>
